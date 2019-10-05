@@ -147,6 +147,7 @@ class Window(arcade.Window):
                 else:
                     self.player.hp -= 10
                     self.shiphp -= 10
+                    self.score -= 100
 
 
     def on_draw(self):
@@ -182,6 +183,7 @@ class Window(arcade.Window):
                     self.bullet_list.append(bullet)
                     if self.end > 0:
                         self.ammo -= 1
+                        self.score -= 1
         else:
             pass
            
