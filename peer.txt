@@ -1,0 +1,40 @@
+Name: Tanner Bender
+Date: October 19, 2019
+Project: Space shooter
+Peer's repository: https://github.com/adsing99?tab=repositories
+
+
+
+What is something you learned by reviewing your peer's project?
+That by using the randomint option you can append enemies at any random location. 
+ 
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+I like how there was a bullet limit added to the game. Everytime you shoot a bullet you lose one and can run out. 
+
+ 
+
+What suggestions would you have for your peer to improve his/her code?
+
+ The code looks good to me. It is all evenly space and very organized. Possibly less white space
+
+What could have been clearer or better commented?
+
+ There is only one thing commented throughout. Make sure to comment more for others to understand. 
+
+Was there anything in the code that was confusing to you? If so, what?
+
+No, nothing was confusing. 
+ 
+
+Does the repository contain an appropriate LICENSE?
+
+ Yes
+
+What is something he/she could add to the README.md to make it more descriptive?
+
+ describe some of your code and how it translates from code to the game we are playing. 
+
+Pay a compliment to your peer based on the quality of his/her code.
+
+Your code is very organized and impressive. I really like how you used to the randomint for enemies. Also liked the chance of shooting in each frame. Good job.
